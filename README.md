@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I’m a 3rd year software engineer student at the University of Warmia and Masuria in Poland.<br>For the past couple of years I've been spending most of my free time developing Java Spring boot<br>applications with React. <br>
+I’m a 3rd year software engineer student at the University of Warmia and Masuria in Poland.<br>For the past couple of years I've been spending most of my life developing Java Spring boot<br>applications with React. <br>
 
 
 ## 🌐 Socials:
