@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Igor Barcikowski
 
 # 💫 About Me:
 I’m a 3rd year software engineer student at the University of Warmia and Masuria in Poland.<br>For the past two years I've been spending most of my life developing Java Spring boot<br>applications with React. <br>
